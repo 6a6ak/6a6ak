@@ -6,20 +6,14 @@
 </p>
 
 
-<p align="center" style="border-radius:25%;border: 1px solid red;">
+<p align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=6a6ak&theme=github" />
   <br>
-   <a href="https://wakatime.com/@018b8140-c729-4ea3-8b40-6ade5ff09f83"><img src="https://wakatime.com/badge/user/018b8140-c729-4ea3-8b40-6ade5ff09f83.svg" alt="Total time coded since Oct 30 2023" /></a>
-
+   <a href="https://wakatime.com/@018b8140-c729-4ea3-8b40-6ade5ff09f83"><img src="https://wakatime.com/badge/user/018b8140-c729-4ea3-8b40-6ade5ff09f83.svg" alt="Total time coded since Oct 30 2023" /></a></p>
+<p align="center">
+<img width="500px"  src="https://wakatime.com/share/@l3abak/d885d746-5a16-4e90-9037-58c4e3994646.svg"></img>
+</center>
 </p>
-
-
-
-
-
-
-
-
 
 
 
