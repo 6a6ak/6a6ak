@@ -16,7 +16,3 @@
 </p>
 
 
-
-<figure><embed src=""></embed></figure>
-
-
