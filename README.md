@@ -6,14 +6,14 @@
 </p>
 
 
-<p align="center">
+ <div width="90%" align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=6a6ak&theme=github" />
   <br>
    <a href="https://wakatime.com/@018b8140-c729-4ea3-8b40-6ade5ff09f83"><img src="https://wakatime.com/badge/user/018b8140-c729-4ea3-8b40-6ade5ff09f83.svg" alt="Total time coded since Oct 30 2023" /></a>
 <img  src="https://www.codewars.com/users/6a6ak/badges/micro"></img>
-</p>
 
 
+</div>
 
 
   <div width="90%" align="center">
