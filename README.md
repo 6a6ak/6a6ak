@@ -41,9 +41,4 @@
 
   
 </div>
-<p align="center">
-<img width="45%"  src="https://wakatime.com/share/@l3abak/e332caad-1dc1-4b50-bef6-7045dce6e4c7.svg"></img><img width="45%"  src="https://wakatime.com/share/@l3abak/b2a3190a-fd51-45fc-87eb-39eee45440a3.svg"></img>
-
-
-</p>
 
