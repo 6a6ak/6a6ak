@@ -45,8 +45,6 @@
 <img src="https://img.shields.io/badge/-Chrome_Extension-4285F4?style=flat-square&logo=google-chrome&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Bash_Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-MikroTik-FF4500?style=flat-square">
-
-
 </div>
 
 
