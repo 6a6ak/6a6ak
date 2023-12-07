@@ -1,6 +1,6 @@
 
 <p align="center">
- 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&random=false&width=435&lines=👋He+there!!!+" alt="Typing SVG" /></a><br>
   <img width="54%" src="https://github-readme-stats.vercel.app/api?username=6a6ak&show_icons=true&theme=transparent" />
 <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6a6ak&layout=compact&theme=transparent&langs_count=8" />
 </p>
