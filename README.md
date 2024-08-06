@@ -29,7 +29,7 @@
 <img width="49%"  src="https://wakatime.com/share/@l3abak/9a73b04c-0fd9-494a-9aec-d5eae08f9131.svg"></img>
   -->
 </div>
-
+<hr>
   <div width="100%" align="center">
  <a href="https://wakatime.com/@018b8140-c729-4ea3-8b40-6ade5ff09f83"><img src="https://wakatime.com/badge/user/018b8140-c729-4ea3-8b40-6ade5ff09f83.svg" alt="Total time coded since Oct 30 2023" /></a> 
 <img  src="https://www.codewars.com/users/6a6ak/badges/micro"></img>
@@ -56,6 +56,8 @@
 <img src="https://img.shields.io/badge/-Chrome_Extension-4285F4?style=flat-square&logo=google-chrome&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Bash_Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-MikroTik-FF4500?style=flat-square">
+<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter">
+<img src="https://img.shields.io/badge/Dart-0175C2?logo=dart">
 </div>
 
 
