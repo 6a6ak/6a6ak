@@ -50,7 +50,6 @@
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Twig-green?style=flat-square&logo=twig&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Jupyter_Notebook-orange?style=flat-square&logo=jupyter&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Chrome_Extension-4285F4?style=flat-square&logo=google-chrome&logoColor=ffffff">
