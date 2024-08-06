@@ -17,7 +17,7 @@
   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=6a6ak&theme=transparent"/>
 </div>
     
- <div width="90%" align="center">
+ <div width="98%" align="center">
    <img width="49%"  src="https://wakatime.com/share/@l3abak/96cd0eba-276f-45c3-8c11-d66a45c38ce6.svg"></img>
 
 
