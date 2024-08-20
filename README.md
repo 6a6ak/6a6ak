@@ -18,7 +18,7 @@
 </div>
     
  <div width="98%" align="center">
-   <img width="49%"  src="https://wakatime.com/share/@l3abak/96cd0eba-276f-45c3-8c11-d66a45c38ce6.svg"></img>
+   <img width="75%"  src="https://wakatime.com/share/@l3abak/96cd0eba-276f-45c3-8c11-d66a45c38ce6.svg"></img>
 
 
  
