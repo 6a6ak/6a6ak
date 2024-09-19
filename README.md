@@ -22,13 +22,14 @@
 
 
  
-   <!--
-  <img  width="43%"  src="https://wakatime.com/share/@l3abak/0f1ee566-3f45-4267-a08c-682082571c02.svg"></img>
-
-<img width="43%"  src="https://wakatime.com/share/@l3abak/e8ee4fad-585e-4cc3-a51b-3f265771b265.svg"></img>
-<img width="49%"  src="https://wakatime.com/share/@l3abak/9a73b04c-0fd9-494a-9aec-d5eae08f9131.svg"></img>
-  -->
+   
+<img  width="20%"  src="https://wakatime.com/share/@l3abak/0f1ee566-3f45-4267-a08c-682082571c02.svg"></img>
+<img width="20%"  src="https://wakatime.com/share/@l3abak/e8ee4fad-585e-4cc3-a51b-3f265771b265.svg"></img>
+<img width="20%"  src="https://wakatime.com/share/@l3abak/9a73b04c-0fd9-494a-9aec-d5eae08f9131.svg"></img>
+  
 </div>
+
+
 <hr>
   <div width="100%" align="center">
  <a href="https://wakatime.com/@018b8140-c729-4ea3-8b40-6ade5ff09f83"><img src="https://wakatime.com/badge/user/018b8140-c729-4ea3-8b40-6ade5ff09f83.svg" alt="Total time coded since Oct 30 2023" /></a> 
