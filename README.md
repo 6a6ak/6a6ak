@@ -61,4 +61,4 @@
 </div>
 
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=l3abak&theme=github&border_color=001F1E&text_color=001f1e&icon_color=001f1e&title_color=43D55C">
+<img  width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=l3abak&theme=github&border_color=001F1E&text_color=001f1e&icon_color=001f1e&title_color=43D55C">
