@@ -10,3 +10,9 @@
  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=6a6ak&show_icons=true&theme=transparent&hide_border=true" />
 <img width="35.6%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6a6ak&layout=compact&theme=transparent&langs_count=8&hide_border=true" />
 </div>
+
+
+
+ <div width="90%" align="center">
+ <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=6a6ak&bg_color=none&color=006aff&line=417e87&point=00ff41&area=true&hide_border=true&area_color=417e87" />
+</div>

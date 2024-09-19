@@ -2,9 +2,6 @@
 
 </p>
 
- <div width="90%" align="center">
- <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=6a6ak&bg_color=none&color=006aff&line=417e87&point=00ff41&area=true&hide_border=true&area_color=417e87" />
-</div>
 
 <div width="100%" align="center">
   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=6a6ak&theme=transparent"/>
