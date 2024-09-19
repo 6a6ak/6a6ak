@@ -60,5 +60,6 @@
 <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart">
 </div>
 
-
-<img  width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=l3abak&theme=github&border_color=001F1E&text_color=001f1e&icon_color=001f1e&title_color=43D55C">
+<center>
+<img  width="90%" src="https://github-readme-stats.vercel.app/api/wakatime?username=l3abak&theme=github&border_color=001F1E&text_color=001f1e&icon_color=001f1e&title_color=43D55C">
+</center>
