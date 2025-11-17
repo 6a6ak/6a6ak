@@ -30,7 +30,6 @@
 | [![SBuild](https://img.shields.io/badge/SBuild-282a36?style=flat&logo=github&logoColor=4EAA25)](https://github.com/6a6ak/SBuild) |  |  |  |
 | [![MongoDB_on_Apache](https://img.shields.io/badge/MongoDB_on_Apache-282a36?style=flat&logo=github&logoColor=4EAA25)](https://github.com/6a6ak/MongoDB_on_Apache) |  |  |  |
 | [![Slider](https://img.shields.io/badge/Slider-282a36?style=flat&logo=github&logoColor=4EAA25)](https://github.com/6a6ak/Slider) |  |  |  |
-| [![6a6ak](https://img.shields.io/badge/6a6ak-282a36?style=flat&logo=github&logoColor=4EAA25)](https://github.com/6a6ak/6a6ak) |  |  |  |
 | [![UTU_Alias](https://img.shields.io/badge/UTU_Alias-282a36?style=flat&logo=github&logoColor=4EAA25)](https://github.com/6a6ak/UTU_Alias) |  |  |  |
 
 
