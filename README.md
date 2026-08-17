@@ -2,8 +2,9 @@
 |-----|------|------|
 -->
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=6a6ak&theme=dracula&hide_border=true) --> 
+<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=6a6ak&theme=dracula&hide_border=true) 
 ![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=6a6ak&theme=dracula&hide_border=fulse)
+--> 
 # Repositories
 <center>
 
